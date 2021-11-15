@@ -43,3 +43,37 @@ There is less accord on what constitutes positive quality aspects._
 - Did Data Preprocessing.
 - Independent and Dependent Features.
 - Did Train-Test split
+
+
+
+## Trained my Model using :
+
+## _Random Forest Classifier_
+
+- Predicted for the data
+- Finded Accuracy score
+- Plotted Confusion Matrix
+- And at last, Classification report.
+- And Analyzed the key factors responsible for prediction.
+
+
+## _Support Vector Machine_
+
+- Predicted for the data
+- Finded Accuracy score
+- Plotted Confusion Matrix
+- And at last, Classification report.
+
+## _Using K Neighbors Classifier_
+
+- Predicted for the data
+- Finded Accuracy score
+- Plotted Confusion Matrix
+- And at last, Classification report.
+
+
+![wine2](https://user-images.githubusercontent.com/73397927/141740745-118172ed-767e-49e3-b1da-79e69ac20184.jpg)
+
+
+## _And for the conclusion -_
+#### _From the above three trained Models, It can be seen that <br> With the Accuracy of around 88%, <br> the Random Forest Classifier model performed slightly better than SVM and KNN models._
